@@ -72,11 +72,11 @@ Note 2: Make sure you add .env to your .gitignore before pushing any changes to 
 
 
 ## Data flow
-![](./diagrams/data-flow.png)
+![](https://raw.githubusercontent.com/vishalxtyagi/REST-API-Tutorial/tutorial/diagrams/data-flow.png)
 
 
 ## Access & refresh token flow
-![](./diagrams/refresh-token-flow.png)
+![](https://raw.githubusercontent.com/vishalxtyagi/REST-API-Tutorial/tutorial/diagrams/refresh-token-flow.png)
 
 
 # Deployment
